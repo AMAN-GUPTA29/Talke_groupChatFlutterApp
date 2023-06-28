@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1043350203253",
+    "project_id": "flutter-chate-29",
+    "storage_bucket": "flutter-chate-29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043350203253:android:3624e95e8312749306c13c",
+        "android_client_info": {
+          "package_name": "com.example.talke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043350203253-jma55dme8dhvj4ofi9610d72jbu0a1tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeC2CFyX5q7Wewy32lCrMJCW8-LdzXuWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043350203253-jma55dme8dhvj4ofi9610d72jbu0a1tk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043350203253-8p0rnvo0optcn1qn0mov9ghgm9qb6j91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talke"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
